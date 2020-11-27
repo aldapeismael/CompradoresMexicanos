@@ -17,4 +17,3 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 Route::view('/', 'Login')->name('Login');
-Route::view('/Inicio', 'inicio')->name('inicio');
